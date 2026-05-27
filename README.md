@@ -6,23 +6,6 @@
  Atualmente, estou desenvolvendo no curso técnico HTML, CSS, C++, Portugol, entre outros...
 
 
-<p align="left">
-  <a href="https://github.com/SEUUSUARIO">
-    <img 
-      alt="GitHub followers"
-      title="Me siga no GitHub"
-      src="https://img.shields.io/badge/Seguidores-0-blue?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-
-  <a href="https://github.com/SEUUSUARIO?tab=repositories">
-    <img 
-      alt="Repositorios"
-      title="Repositórios"
-      src="https://custom-icon-badges.demolab.com/github/stars/SEUUSUARIO?color=55960c&label=Estrelas&logo=star&style=for-the-badge"
-    />
-  </a>
-</p>
 
 ---
 
