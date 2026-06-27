@@ -25,6 +25,8 @@
 ## 🎓 Cursos e Certificados
 
 <a href="https://skills.yourlearning.ibm.com/certificate/share/47bc29dfefewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTU3Njc0UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9885eba63c6-10">
- <img src="certificados/ibm-skillsbuild-ad.png" alt="Certificado 1" width="200">
+ 
+ <img src="certificados/certificado1.png" alt="Certificado 1" width="200">
+ 
 </a>
 
