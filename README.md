@@ -22,3 +22,6 @@
 
 ---
 
+## 🎓 Cursos e Certificados
+
+https://skills.yourlearning.ibm.com/certificate/share/47bc29dfefewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI3OTU3Njc0UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9885eba63c6-10
